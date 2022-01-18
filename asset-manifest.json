@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/subreddit/static/css/main.8c4c2bc6.css",
+    "main.js": "/subreddit/static/js/main.77b1d2c5.js",
+    "index.html": "/subreddit/index.html",
+    "main.8c4c2bc6.css.map": "/subreddit/static/css/main.8c4c2bc6.css.map",
+    "main.77b1d2c5.js.map": "/subreddit/static/js/main.77b1d2c5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c4c2bc6.css",
+    "static/js/main.77b1d2c5.js"
+  ]
+}
